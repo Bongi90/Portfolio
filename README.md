@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Abongile Valashiya Portfolio</title>
+    <title>Abongile  Portfolio</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
@@ -12,7 +11,7 @@
     <header>
         <nav>
             <div class="nav-left">
-                <a href="#">Abongile Valashiya</a>
+                <a href="#">Abongile </a>
             </div>
             <div class="nav-right">
                 <a href="#about">About</a>
@@ -113,7 +112,7 @@
             <div class="section-inner">
                 <h2>Contact</h2>
                 <p>I'm always open to new opportunities. Feel free to reach out!</p>
-                <a href="mailto:avalashiya90@gmail.com" class="email-link">Email Me</a>
+                <a href="mailto:a90@gmail.com" class="email-link">Email Me</a>
             </div>
         </section>
     </main>
